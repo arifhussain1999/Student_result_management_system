@@ -1,5 +1,3 @@
-# Student result management system
-
 # Introduction:
 The Student Result Management System is a Java project series focused on building a major project that emphasizes various functionalities and real-life usability. It serves as a learning experience, providing exposure to Java programming, project development, and the utilization of essential technologies.
 
